@@ -1,6 +1,6 @@
 # Video Game Sales Dataset
 # Source: Adapted from VGChartz (public domain estimates)
-# Each row: [rank, name, platform, year, genre, publisher, na_sales, eu_sales, jp_sales, global_sales]
+# Each row: [rank, name, platform, year, genre, publisher, na_sales, eu_sales, jp_sales, global_sales].
 
 video_game_sales = [
     [1, 'Wii Sports', 'Wii', 2006, 'Sports', 'Nintendo', 41.49, 29.02, 3.77, 82.74],
